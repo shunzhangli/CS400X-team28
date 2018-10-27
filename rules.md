@@ -1,4 +1,4 @@
-# X-Team NN Rules
+# X-Team 28 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -25,6 +25,6 @@ and missed deadlines.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-Try your best and don't get frustrated, get motivated!
+
 
 
