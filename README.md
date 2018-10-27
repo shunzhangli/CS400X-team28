@@ -9,7 +9,7 @@
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1:shunzhangli name 1:Shunzhang Li
        * GitHub username 2:dklong name 2:David Klongland
-       * GitHub username 3:       name 3:
+       * GitHub username 3:Way-Yuhao       name 3:Yuhao Liu
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
