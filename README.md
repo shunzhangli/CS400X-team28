@@ -12,8 +12,10 @@
        * GitHub username 3:       name 3:
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
-   * When did you complete this exercise? 
-   * How long did it take your team to complete this exercise? 
+   * When did you complete this exercise?   
+   Saturday Oct27 4:00 p.m
+   * How long did it take your team to complete this exercise?   
+   About one hour of editting files but another hour to paly with github
 
 ## Table of Contents
 
