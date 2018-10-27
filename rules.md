@@ -9,13 +9,14 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-1.One can volunteer if they have strong desire for certain task  
+1.One can volunteer if they have strong desire for certain task.
 
 2.We will randomanly tasks until preferances/weaknesses are identified
 then we can asign people to tasks they might not be strognest at, so they can grow as a programmer.
 
+3.Work as a small group of two(easier to schedule time for coding) when the workload is large.
 
-## How will we will track progress (and follow-up) on completion of tasks
+## How will we track progress (and follow-up) on completion of tasks
 
 1.Through the github repository edits, and emails following task completion status.   
 
@@ -23,10 +24,11 @@ then we can asign people to tasks they might not be strognest at, so they can gr
 
 3.comments in both codes and github operations
 
-## How will will communicate difficulties with a task assigned to us
+## How will we communicate difficulties with a task assigned to us
 1.Emails and other coomunication, texting, for assistence when the situation requires.   
 
 2.We create a detailed email, text or some sort of message that describes (an) explicit problems. 
+
 
 ## How we will back up each other to ensure that deadlines are not missed
 1.Setting milestones for each person and then checking up on other people's milestones come these   
