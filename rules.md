@@ -9,23 +9,23 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-never!!
-We do random assign
-
+We will randomanly tasks until preferances/weaknesses are identified. 
+Then we can asign people to tasks they might not be strognest at, so they can grow as a programmer.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-awwwwww
+Through the github repository edits, and emails following task completion status. 
 
 
 ## How will will communicate difficulties with a task assigned to us
-
+Emails and other coomunication, texting, for assistence when the situation requires. 
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+Setting milestones for each person and then checking up on other people's milestones come these faux deadlines will keep a project on track.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
 Try your best and don't get frustrated, get motivated!
+If you cannot complete your assigned portion before the deadline, or you have conflicts with previous commitments, tell the team! Don't leave the team in the dark about whether or not something will get done or not.
 
