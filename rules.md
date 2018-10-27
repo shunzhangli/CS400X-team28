@@ -16,7 +16,7 @@ then we can asign people to tasks they might not be strognest at, so they can gr
 
 3.Work as a small group of two(easier to schedule time for coding) when the workload is large.
 
-## How will we track progress (and follow-up) on completion of tasks
+## How we will track progress (and follow-up) on completion of tasks
 
 1.Through the github repository edits, and emails following task completion status.   
 
@@ -24,7 +24,7 @@ then we can asign people to tasks they might not be strognest at, so they can gr
 
 3.comments in both codes and github operations
 
-## How will we communicate difficulties with a task assigned to us
+## How we will communicate difficulties with a task assigned to us
 1.Emails and other coomunication, texting, for assistence when the situation requires.   
 
 2.We create a detailed email, text or some sort of message that describes (an) explicit problems. 
@@ -34,9 +34,8 @@ then we can asign people to tasks they might not be strognest at, so they can gr
 1.Setting milestones for each person and then checking up on other people's milestones come these   
 faux deadlines will keep a project on track.  
 
-2.We do one and a half task.   
- 
-
+2.We do one and a half task. We assign tasks to individuals first and pair people have a primary assignee and secondary assignee.  
+     
 ## Add any other rules that your team establishes to help each other work effectively together
 1.Try your best and don't get frustrated, get motivated!  
 
