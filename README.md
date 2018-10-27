@@ -1,5 +1,5 @@
 # xteam-exercise-2: https://github.com/shunzhangli/CS400X-team28
-
+example
 1. Edit the title of this document
    * Replace <UserName> with the user name of the team member who created shared repository
    * Replace <GitHubRepositoryName> with the name of your team's GitHub repository for this exercise.
