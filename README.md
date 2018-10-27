@@ -30,4 +30,3 @@
 * README.md
 * rules.md
 * proposal.md
-My random string of text
