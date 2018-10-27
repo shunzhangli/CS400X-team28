@@ -9,27 +9,35 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
+1.One can volunteer if they have strong desire for certain task  
 
-We will randomanly tasks until preferances/weaknesses are identified
+2.We will randomanly tasks until preferances/weaknesses are identified
 then we can asign people to tasks they might not be strognest at, so they can grow as a programmer.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-Through the github repository edits, and emails following task completion status.  
-We text periodically in the group chat
+
+1.Through the github repository edits, and emails following task completion status.   
+
+2.We text periodically in the group chat
+
+3.comments in both codes and github operations
 
 ## How will will communicate difficulties with a task assigned to us
-Emails and other coomunication, texting, for assistence when the situation requires.  
-We create a detailed email, text or some sort of message that describes (an) explicit problems. /n
+1.Emails and other coomunication, texting, for assistence when the situation requires.   
+
+2.We create a detailed email, text or some sort of message that describes (an) explicit problems. 
 
 ## How we will back up each other to ensure that deadlines are not missed
-Setting milestones for each person and then checking up on other people's milestones come these faux deadlines will keep a project on track.  
-We do one and a half task.   
-One can volunteer for a task if he wants to.
+1.Setting milestones for each person and then checking up on other people's milestones come these   
+faux deadlines will keep a project on track.  
 
+2.We do one and a half task.   
+ 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-Try your best and don't get frustrated, get motivated!  
-If you cannot complete your assigned portion before the deadline, or you have conflicts with previous commitments, tell the team! Don't leave the team in the dark about whether or not something will get done or not.  
+1.Try your best and don't get frustrated, get motivated!  
+
+2.If you cannot complete your assigned portion before the deadline, or you have conflicts with previous commitments, tell the team! Don't leave the team in the dark about whether or not something will get done or not.  
 No memes in communicatation.  
 
