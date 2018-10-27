@@ -1,5 +1,4 @@
 # xteam-exercise-2: https://github.com/<UserName>/<GitHubRepositoryName>
-  David's comment - with additions 2+2 = 4
 
 1. Edit the title of this document
    * Replace <UserName> with the user name of the team member who created shared repository
