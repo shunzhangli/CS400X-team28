@@ -65,9 +65,11 @@ calenderNode methods/vars: Data associated with the nodes inserted into the data
 calender methods: conflicts, printing out data about conflicts, etc..  
 
 Name each interface or class and briefly describe its function or purpose.
-HashTableADT - interface for a hashtable implementations   
-yourCalender - class that governs the methods associated with the implementation of a celender   
-calenderNode - class that governs the data within a node inserted into the calender.   
+
+CustomDataStructureADT - interface for a CustomDataSrtucture implementations
+yourCalender - class that governs the methods associated with the implementation of a celender
+calenderNode - class that governs the data within a node inserted into the calender. 
+
 
 ## Edit and Submit this file and any figures referenced by this document.
 
