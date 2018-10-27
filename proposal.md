@@ -1,4 +1,4 @@
-# X-Team 28 Project Proposal
+# X-Team 28 yourCalender
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -29,32 +29,46 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+You have a variety of events and you do not know if they all conflict with each other. yourCalender contains events from previous   inputs into the program and from current inputs. It is, in all intents and purposes, a calender that lets you know when you have conflicts. 
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
-
+1. Name: Give your project proposal a name (and edit the top line of this file)  
+yourCalender 
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-    
-  -Conflicts warning especially exam conflicts.  
+tastScehduler will output wether or not there are any conflicts in your given task schedule.  
+For example:  
+You have a conflict on Oct 25th. "Date with the guys" Oct 25th, 5pm-7pm conflicts with "CS400 Midterm" Oct 25th, 5pm-7pm.  
+The out put of the program would soley be based on the input of the program, and the text file saved with previous inputs. 
+
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-        
-   -Date, time, description and priority of the event.  
+The data is taken from System.in inputs from the user's keyboard. The format will be strict, and given to the user on startup.   For example:  
+"What is your event?"   
+-Date with the guys  
+"When is your event (Month day timeStart timeEnd)?  
+-blalblablah 25h 5pm - 7pm  
+"The time input was not formated correct, an example "Oct 25 5pm 7pm".  
+-October 25 5pm 7pm  
+" "Date with the guys" on Oct. 25th, 5pm to 7pm has been added to your calender."  
 
-4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-    
-  -Simple graphic asking for all the input in a table.
+4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.  
+Three text boxes. One for inputting a date, one for removing a date, an one for showing all dates. Input a date would trigger the   sequence as shown above, remoiving a date would print the data structure and you would input what event on what day to remove.   Showing all datas would print the data structure in order.   
 
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
+5. Types List: Break your solution idea down into units that you think can be implemented with a single class.  
+Data Structure: Holds the dates and decription of the events. IE AVL Tree, hashtable   
+Main Method: governs data input/output   
+data structure methods: Insert, remove, etc..  
+calenderNode methods/vars: Data associated with the nodes inserted into the data structure. 
+calender methods: conflicts, printing out data about conflicts, etc..  
 
 Name each interface or class and briefly describe its function or purpose.
-
+HashTableADT - interface for a hashtable implementations
+yourCalender - class that governs the methods associated with the implementation of a celender
+calenderNode - class that governs the data within a node inserted into the calender. 
 
 ## Edit and Submit this file and any figures referenced by this document.
 
