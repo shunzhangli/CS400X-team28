@@ -9,23 +9,22 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-never!!
-We do random assign
+One can volunteer for a task if he wants to.
 
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-awwwwww
+We text periodically in the group chat
 
 
 ## How will will communicate difficulties with a task assigned to us
-
+We create a detailed email, text or some sort of message that describes (an) explicit problems. /n
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+We do one and a half task. 
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
 Try your best and don't get frustrated, get motivated!
-
+No memes in communicatation.
