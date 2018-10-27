@@ -10,7 +10,7 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-We will randomanly tasks until preferances/weaknesses are identified  
+We will randomanly tasks until preferances/weaknesses are identified
 then we can asign people to tasks they might not be strognest at, so they can grow as a programmer.
 
 
