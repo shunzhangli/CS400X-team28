@@ -39,15 +39,18 @@ Describe at a high level a program that could solve that problem.
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
--Conflicts warning especially exam conflicts.  
+  
+  -Conflicts warning especially exam conflicts.  
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
--Date, time, description and priority of the event.  
+  
+  -Date, time, description and priority of the event.  
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
--Simple graphic asking for all the input in a table.
+  
+  -Simple graphic asking for all the input in a table.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
