@@ -36,14 +36,14 @@ You have a variety of events and you do not know if they all conflict with each 
 1. Name: Give your project proposal a name (and edit the top line of this file)  
 yourCalender 
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-tastScehduler will output wether or not there are any conflicts in your given task schedule.  
+2. Output: Describe the output your program will produce.  Include and example format of the output produced.  
+yourCalender will output wether or not there are any conflicts in your given task schedule.  
 For example:  
 You have a conflict on Oct 25th. "Date with the guys" Oct 25th, 5pm-7pm conflicts with "CS400 Midterm" Oct 25th, 5pm-7pm.  
 The out put of the program would soley be based on the input of the program, and the text file saved with previous inputs. 
 
 
-3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.  
 The data is taken from System.in inputs from the user's keyboard. The format will be strict, and given to the user on startup.   For example:  
 "What is your event?"   
 -Date with the guys  
