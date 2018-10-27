@@ -23,7 +23,7 @@ then we can asign people to tasks they might not be strognest at, so they can gr
 
 3.comments in both codes and github operations
 
-## How will will communicate difficulties with a task assigned to us
+## How we will communicate difficulties with a task assigned to us
 1.Emails and other coomunication, texting, for assistence when the situation requires.   
 
 2.We create a detailed email, text or some sort of message that describes (an) explicit problems. 
