@@ -29,13 +29,12 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-You have a variety of events and you do not know if they all conflict with each other. yourCalender contains events from previous   inputs into the program and from current inputs. It is, in all intents and purposes, a calender that lets you know when you have conflicts. 
+You have a variety of events and you do not know if they all conflict with each other. yourCalender has a custom data structure that contains events from previous inputs into the program and from current inputs. It is, in all intents and purposes, a calender that reports when you have conflicts.
 
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)  
 yourCalender 
-
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 tastScehduler will output wether or not there are any conflicts in your given task schedule.  
@@ -62,13 +61,15 @@ Three text boxes. One for inputting a date, one for removing a date, an one for 
 Data Structure: Holds the dates and decription of the events. IE AVL Tree, hashtable   
 Main Method: governs data input/output   
 data structure methods: Insert, remove, etc..  
-calenderNode methods/vars: Data associated with the nodes inserted into the data structure. 
+calenderNode methods/vars: Data associated with the nodes inserted into the data structure.  
 calender methods: conflicts, printing out data about conflicts, etc..  
 
 Name each interface or class and briefly describe its function or purpose.
-CustomDataStructureADT - interface for a hashtable implementations
+
+CustomDataStructureADT - interface for a CustomDataSrtucture implementations
 yourCalender - class that governs the methods associated with the implementation of a celender
 calenderNode - class that governs the data within a node inserted into the calender. 
+
 
 ## Edit and Submit this file and any figures referenced by this document.
 
